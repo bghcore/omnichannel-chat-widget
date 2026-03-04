@@ -17,8 +17,8 @@ object-assign
 */
 
 /*!
- * Globalize Runtime v1.7.1 2025-09-29T18:41Z Released under the MIT license
- * https://github.com/globalizejs/globalize
+ * Globalize Runtime v1.7.0 2021-08-02T11:53Z Released under the MIT license
+ * http://git.io/TrdQbw
  */
 
 /*!
